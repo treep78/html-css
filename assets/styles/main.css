@@ -1,1 +1,73 @@
-
+.questions
+{
+  text-decoration: underline;
+}
+header
+{
+  color: #954535;
+  font-size: 4em;
+  text-align: center;
+}
+img
+{
+  display: block;
+  margin: 0 auto;
+}
+body
+{
+    font-style: arial;
+    text-align: center;
+    margin: 0 auto;
+}
+.recipeTitle
+{
+  font-family: cursive;
+}
+li
+{
+  list-style: none;
+}
+.butter
+{
+  color: rgb(212, 23, 4);
+}
+.bS
+{
+  color: rgb(212, 23, 4);
+}
+.gS
+{
+  color: purple;
+}
+.vN
+{
+  color: orange;
+}
+.vE
+{
+  color: green;
+}
+.milk
+{
+  color: red;
+}
+.flour
+{
+  color: blue;
+}
+.salt
+{
+  color: grey;
+}
+.soda
+{
+  color: rgb(212, 23, 4);
+}
+.cC
+{
+  color: rgb(212, 23, 4);
+}
+.eggs
+{
+  color: brown;
+}
